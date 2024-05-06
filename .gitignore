@@ -1,0 +1,40 @@
+# Android
+.gradle/
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+# Gradle
+*.log
+.gradle/
+
+# IntelliJ IDEA
+*.iml
+/.idea/
+.idea/
+
+# Конфигурационные файлы для Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Остальное
+*.class
+*.jar
+*.war
+*.ear
+*.hprof
+/target/
+/*.ipr
+/*.iws
+/*.bak
+*.war
+*.ear
+*.nar
+hs_err_pid*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
