@@ -2,6 +2,8 @@
 
 PokemonRandomizerLibrary is an application that allows you to retrieve random Pokemon information from the public PokeAPI and display it in the user interface. The application was developed as a course work for the Step computer academy under the guidance of teacher [sunmeat](https://github.com/sunmeat).
 
+![photo_2024-05-06_23-17-32.jpg](..%2F..%2F..%2F..%2FUsers%2Fscrin%2FDesktop%2Fphoto_2024-05-06_23-17-32.jpg)
+
 **Functionality:**
 
 1. Retrieve random Pokemon information: The app downloads random Pokemon data, including their images and stats, using the public PokeAPI.
