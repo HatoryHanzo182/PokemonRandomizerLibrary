@@ -1,0 +1,9 @@
+<!-- rounded_corner.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="rectangle">
+    <corners android:radius="20dp" /> <!-- Радиус закругления углов -->
+    <solid android:color="#FFFFFF" /> <!-- Цвет фона (белый) -->
+    <stroke
+            android:width="6dp"
+            android:color="#ffffff" /> <!-- Цвет и ширина границы (красный) -->
+</shape>
